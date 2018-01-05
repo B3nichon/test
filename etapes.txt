@@ -5,3 +5,9 @@ récupère un dépôt distant.
 
 git push
 Pousse les derniers commits sur le serveur
+
+git pull
+tirer les modificaitions du serveur vers la machine
+git pull execute deux commandes
+- git fetch
+- git rebase
