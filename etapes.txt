@@ -10,6 +10,9 @@ git pull
 tirer les modificaitions du serveur vers la machine
 git pull execute deux commandes
 - git fetch
+tirer les modificaitions du serveur vers la machine
+git pull execute deux commandes
+- git fetch
 - git rebase
 
 git pull-request
