@@ -23,3 +23,7 @@ Etapes:
 - ouvrir un pull request sur le projet original
 
 
+git revert <commit>
+annule un commit particulier ou un ensemble de commit 
+sans modifier les commits précédents
+
